@@ -1,5 +1,11 @@
 # Fortnightly News App
 
+<p align="center">
+  <img src="/assets/images/homepage.jpg" alt="Homepage View" width="45%" />
+  <img src="/assets/images/article_view.jpg" alt="Article View" width="45%" />
+</p>
+
+
 ## Overview
 This application, inspired by Google's Fortnightly design study, presents a modern news experience by showcasing a list of news articles on the front page. Users can click on any article component to navigate to a page with the full description of the article. The project is designed with a focus on simplicity and ease of use, adhering to Material Design principles.
 
@@ -44,13 +50,6 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-
-<p align="center">
-  <img src="/assets/images/homepage.jpg" alt="Homepage View" width="45%" />
-  <img src="/assets/images/article_view.jpg" alt="Article View" width="45%" />
-</p>
-
 
 ## Get a fresh project
 
